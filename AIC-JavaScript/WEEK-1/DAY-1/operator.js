@@ -12,7 +12,7 @@ console.log("The modulus of a and b is " +(a % b));
  let x = 6;
  // x += 6;
  // x -= 6;
- // x *= 6
+ // x *= 6;
  x /= 6;
  console.log(x);
 
